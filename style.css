@@ -35,3 +35,8 @@ ul ul, ol ul {
 h1,h2,li{
   margin-top:0em;
 }
+tr{
+  text-indent:.3em;
+  color: #777;
+  font-size: 10px;
+}
