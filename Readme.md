@@ -1,7 +1,7 @@
 我的简历(In process)
 --------------------
 
-用markdown写pdf格式的简历
+用reStructuredText写pdf格式的简历
 
 Thanks
 ------
