@@ -62,19 +62,23 @@ IT技能
 
 - 开源项目(@Github)
 
-  1. CURD.py (Python)
+  1) CURD.py (Python)
     只提供对MySQL数据库CURD操作的微型ORM
-  2. GhResume (coffeeScript)
+  2) GhResume (coffeeScript)
     又一个在线的Github简历生成器
-  3. img2txt (Python)
+  3) img2txt (Python)
     图像生成Ascii文本的工具，可以添加颜色支持
-  4. mkdwiki(2) (Python)
+  4) mkdwiki(2) (Python)
     使用Github风格的markdown来写wiki.提供了代码高亮的支持
-  5. dotfiles (Shell)
+  5) dotfiles (Shell)
     使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
 
 - 其他项目
 
-  1. wordpress博客系统的chrome推送插件(zdmai.cn)
-  2. 软件博客导航程序(PHP+MySQL)
-  3. UI仿知乎的系教学管理网站(PHP+MySQL)
+  1) wordpress博客系统的chrome推送插件(zdmai.cn)
+  2) 软件博客导航程序(PHP+MySQL)
+  3) UI仿知乎的系教学管理网站(PHP+MySQL)
+
+.. [1] 简历在线版本 ResumeOnline_
+
+.. _ResumeOnline: https://github.com/hit9/resume.pdf/blob/master/resume.rst
