@@ -1,7 +1,11 @@
-我的简历(In process)
---------------------
+Hit9's Resumé
+-------------
 
-用reStructuredText写pdf格式的简历
+Source: reStructuredText
+
+Output: PDF
+
+Render: [github/markup](https://github.com/github/markup)
 
 Thanks
 ------
