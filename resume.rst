@@ -10,7 +10,7 @@
 求职意向
 --------
 
-产品研发实习生
+[研发/开发]
 
 个人概况
 --------
@@ -74,10 +74,12 @@ IT技能
     又一个在线的Github简历生成器
   3) img2txt (Python)
     图像生成Ascii文本的工具，可以添加颜色支持
-  4) mkdwiki(2) (Python)
-    使用Github风格的markdown来写wiki.提供了代码高亮的支持
+  4) petal (coffeeScript)
+    基于Github issues的评论系统
   5) dotfiles (Shell)
     使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
+  6) toml.py (Python)
+    toml简明配置语言的Python解析器
 
 - 其他项目
 
