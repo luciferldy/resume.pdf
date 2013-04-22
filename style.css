@@ -45,5 +45,6 @@ img[alt="hit-logo"]{
   position: absolute;
   top: 1em;
   right: 1em;
-  width: 2.8em;
+  height: 1.8em;
+  background: #fff
 }
