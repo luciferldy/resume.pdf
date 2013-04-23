@@ -1,7 +1,7 @@
 body{
-  font: 13px Verdana Helvetica, arial, freesans, clean, sans-serif;
+  font: 12px Verdana Helvetica, arial, freesans, clean, sans-serif;
   color: #333;
-  line-height: 1.5;
+  line-height: 1.4;
   text-shadow: 0px 0px 1px #909090 !important;
 }
 a {
@@ -11,12 +11,12 @@ a:hover {
   text-decoration: underline;
 }
 h1{
-  font-size: 1.8em;
+  font-size: 1.7em;
   font-weight: bold;
   border-bottom: 1px solid #777;
 }
 h2{
-  font-size: 1.4em;
+  font-size: 1.3em;
   font-weight: bold;
   margin: 20px 0 10px;
   display: block;
@@ -45,6 +45,6 @@ img[alt="hit-logo"]{
   position: absolute;
   top: 1em;
   right: 1em;
-  height: 1.8em;
+  height: 1.7em;
   background: #fff
 }

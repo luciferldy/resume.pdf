@@ -10,7 +10,7 @@
 求职意向
 --------
 
-[研发/开发]
+前端工程师
 
 个人概况
 --------
@@ -32,9 +32,7 @@
 
 - 主修课程:  数据结构，C语言程序设计,Java程序设计, 系统分析与设计，数据库等
 
-- 学历: 本科(在读)
-
-- 毕业时间: 2014
+- 学历: 本科(在读) 2014年毕业
 
 IT技能
 ------
@@ -43,7 +41,7 @@ IT技能
 
 - 数据库: MySQL,
 
-- 操作系统: Ubuntu, ArchLinux等
+- 操作系统: Ubuntu, ArchLinux
 
 - 开发工具: Vim, Git, gcc, gdb, chrome inspector 等
 
@@ -52,17 +50,17 @@ IT技能
 
 - 开源项目(@Github)
 
-  - CURD.py (Python)  MySQL数据库CURD操作的微型ORM
+  - CURD.py (Python): MySQL数据库CURD操作的微型ORM
 
-  - GhResume (coffeeScript)  又一个在线的Github简历生成器
+  - GhResume (coffeeScript):  又一个在线的Github简历生成器
 
-  - img2txt (Python)  图像生成Ascii文本的工具，可以添加颜色支持
+  - img2txt (Python):  图像生成Ascii文本的工具，可以添加颜色支持
 
-  - petal (coffeeScript)  基于Github issues的评论系统
+  - petal (coffeeScript):  基于Github issues的评论系统
 
-  - dotfiles (Shell)  使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
+  - dotfiles (Shell):  使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
 
-  - toml.py (Python)  toml简明配置语言的Python解析器
+  - toml.py (Python):  toml简明配置语言的Python解析器
 
 - 其他项目
 
@@ -71,5 +69,12 @@ IT技能
   - 软件博客导航程序(PHP+MySQL)
 
   - UI仿知乎的系教学管理网站(PHP+MySQL)
+
+社会实践
+--------
+
+- 大一大二期间做家教兼职，接过一些网站外包
+
+- 大二与同学一起做订餐网站创业(已流产)
 
 ![hit-logo](hit_logo.jpg)
