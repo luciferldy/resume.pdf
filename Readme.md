@@ -7,9 +7,9 @@ Output: PDF
 
 Render: [github/markup](https://github.com/github/markup)
 
-Online Preview: [resume.rst](resume.rst)
+Online Preview: [resume.md](resume.md)
 
 Thanks
 ------
 
-To [gimli](https://github.com/walle/gimli)
+To [gimli](https://github.com/walle/gimli), Good Good Good Job!
