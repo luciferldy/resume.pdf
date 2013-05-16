@@ -1,7 +1,7 @@
 Hit9's Resumé
 -------------
 
-Source: reStructuredText
+Source: Markdown
 
 Output: PDF
 
