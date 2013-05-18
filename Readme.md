@@ -12,10 +12,9 @@ Online Preview: [resume.md](resume.md)
 Note
 -----
 
-求职意愿顺序(优先性高到低):  Python开发, 前端
+(实习): 求职意愿顺序(优先性高到低):  Python开发, 前端
 
 resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿
-
 
 Thanks
 ------
