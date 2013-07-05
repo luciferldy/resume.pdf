@@ -5,12 +5,12 @@
 
 - Email: nz2324@126.com
 
-- Github: hit9
+- Github: @hit9
 
 求职意向
 --------
 
-Web前端实习
+产品开发实习
 
 个人概况
 --------
@@ -21,7 +21,7 @@ Web前端实习
 
 - 现居: 黑龙江 哈尔滨
 
-- 我是一名热爱开源，热爱Python开发的计算机相关方向的学生。
+- 我是一名热爱开源，热爱产品开发的计算机相关方向的大三在校生。
 
 教育背景
 --------
@@ -39,7 +39,7 @@ IT技能
 
 - 编程语言: Python(最爱), C, PHP, Javascript, CoffeeScript, CSS, HTML, markdown, reStructuredText
 
-- 数据库: MySQL,
+- 数据库: MySQL
 
 - 操作系统: Ubuntu, ArchLinux
 
@@ -49,6 +49,8 @@ IT技能
 --------
 
 - 开源项目(@Github)
+
+  - lilac(Python): 极简主义的博客生成工具
 
   - CURD.py (Python): MySQL数据库CURD操作的微型ORM
 
@@ -60,8 +62,6 @@ IT技能
 
   - dotfiles (Shell):  使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
 
-  - toml.py (Python):  toml简明配置语言的Python解析器
-
 - 其他项目
 
   - wordpress博客系统的chrome推送插件(zdmai.cn)
@@ -69,6 +69,8 @@ IT技能
   - 软件博客导航程序(PHP+MySQL)
 
   - UI仿知乎的系教学管理网站(PHP+MySQL)
+
+  - HIT成绩助手微信应用
 
 社会实践
 --------
