@@ -1,7 +1,7 @@
 王超
 ====
 
-- Tel:  152-4461-4693
+- Tel:  151-010-49576
 
 - Email: nz2324@126.com
 
@@ -10,7 +10,7 @@
 求职意向
 --------
 
-产品开发实习
+产品开发
 
 个人概况
 --------
@@ -21,7 +21,7 @@
 
 - 现居: 黑龙江 哈尔滨
 
-- 我是一名热爱开源，热爱产品开发的计算机相关方向的大三在校生。
+- 我是一名热爱开源，热爱产品开发的计算机相关方向的大学生。
 
 教育背景
 --------
@@ -54,23 +54,16 @@ IT技能
 
   - CURD.py (Python): MySQL数据库CURD操作的微型ORM
 
-  - GhResume (coffeeScript):  又一个在线的Github简历生成器
+  - todo.c (C): 简易的命令行todo管理工具
 
-  - img2txt (Python):  图像生成Ascii文本的工具，可以添加颜色支持
+  - GhResume (coffeeScript):  又一个在线的Github简历生成器
 
   - petal (coffeeScript):  基于Github issues的评论系统
 
-  - dotfiles (Shell):  使用git子模块和makefile来管理系统的配置文件,方便系统crash后快速恢复开发环境
+实习经历
+--------
 
-- 其他项目
-
-  - wordpress博客系统的chrome推送插件(zdmai.cn)
-
-  - 软件博客导航程序(PHP+MySQL)
-
-  - UI仿知乎的系教学管理网站(PHP+MySQL)
-
-  - HIT成绩助手微信应用
+- 2013-07-10至今，知乎实习产品后端开发实习生
 
 社会实践
 --------
