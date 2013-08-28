@@ -12,9 +12,11 @@ Online Preview: [resume.md](resume.md)
 Note
 -----
 
-(实习): 求职意愿顺序(优先性高到低):  Python开发, 前端
+- 求职类型: 正式工
 
-resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿
+- 求职意愿顺序(优先性高到低):  Python后端, Node, 前端
+
+*resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿*
 
 Thanks
 ------
