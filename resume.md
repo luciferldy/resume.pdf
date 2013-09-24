@@ -5,7 +5,7 @@
 
 - 邮箱: nz2324@126.com
 
-- Github: @hit9
+- GitHub: hit9
 
 求职意向
 --------
@@ -31,33 +31,35 @@
 技能知识
 --------
 
-- 编程语言: Python, C, PHP, Javascript, CoffeeScript, CSS, HTML, Markdown
+- 编程语言: Python、C、PHP、Javascript、CoffeeScript、Sass、CSS+HTML等
 
-- 数据库: MySQL
-
-- 操作系统: Ubuntu, ArchLinux
-
-- 开发工具: Vim, Git, gcc, gdb, chrome inspector 等
+- 日常工具: Vim编辑器、Git、Linux/OSX、mysql数据库、GitHub等
 
 项目经验
 --------
 
-- 开源项目(@Github)
+- 开源项目(@GitHub)
 
-  - lilac(Python): 极简主义的博客生成工具
+  - lilac (Python): 极简配置的静态博客生成工具
 
-  - CURD.py (Python): MySQL数据库CURD操作的微型ORM
+  - CURD.py (Python): MySQL数据库的微型ORM
 
   - todo.c (C): 简易的命令行todo管理工具
 
-  - GhResume (coffeeScript):  又一个在线的Github简历生成器
+  - GhResume (CoffeeScript):  一个在线的GitHub简历生成器
 
-  - petal (coffeeScript):  基于Github issues的评论系统
+  - petal (CoffeeScript):  基于GitHub issues的评论系统
+
+- 其他项目
+
+  - 值得买网站推送消息的chrome插件
+
+  - 软件博客导航程序 (PHP)
 
 实习与实践
 ----------
 
-- 2013.07 - 2013.09 知乎实习产品后端开发实习生
+- 2013.07 - 2013.09 知乎实习产品后端Python开发实习生
 
 - 2013.06 - 2013.07 哈尔滨风华航天厂工会部实习
 
@@ -66,13 +68,13 @@
 其它
 ----
 
-- 爱好: 滑冰、羽毛球、旅游等
+- 爱好: 滑冰、羽毛球、旅游、写博客、写日记等
 
 - 特长: 作画、编程
 
 自我评价
 --------
 
-积极向上、热爱自由、崇尚开源、待人友善、富有激情
+- 积极向上、热爱自由、崇尚开源、待人友善、富有激情
 
 ![hit-logo](hit_logo.jpg)
