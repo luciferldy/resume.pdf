@@ -1,6 +1,11 @@
 Hit9's Resumé
 -------------
 
+我要一份2014年入职的南京周边Web开发工作！
+
+About
+------
+
 Source: Markdown
 
 Output: PDF
@@ -18,7 +23,7 @@ Note
 
   *resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿*
 
-- 工作地意向: 最好南京或南京周边城市
+- 工作地意向(优先性高到低): 南京，杭州，上海
 
 Thanks
 ------
