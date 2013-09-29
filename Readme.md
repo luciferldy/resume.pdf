@@ -14,6 +14,8 @@ Render: [github/markup](https://github.com/github/markup)
 
 Online Preview: [resume.md](resume.md)
 
+PDF Download: [Download PDF version](https://github.com/hit9/resume.pdf/blob/master/resume.pdf?raw=true)
+
 Note
 -----
 
