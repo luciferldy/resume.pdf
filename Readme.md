@@ -32,9 +32,9 @@ But, How To?
 
 如果你需要跟我这样生成和管理你的简历的话，希望这些步骤对你有帮助。
 
-- 1. 安装[gimli](https://github.com/walle/gimli)
+1. 安装[gimli](https://github.com/walle/gimli)
 
-- 2. 修改下 style.css 来修改其样式。
+2. 修改下 style.css 来修改其样式。
 
 如果有问题，请提issue
 
