@@ -65,5 +65,5 @@
 
 - 积极向上、热爱自由、崇尚开源、待人友善、富有激情
 
-![school-logo](images/hit_logo.jpg)
-![avatar](images/avatar.jpg)
+![school-logo](../images/hit_logo.jpg)
+![avatar](../images/avatar.jpg)
