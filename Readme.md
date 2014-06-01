@@ -1,7 +1,7 @@
 Hit9's Resumé
 -------------
 
-Status: NOT Available for hire.
+Status: **Not available for hire**
 
 About
 ------
@@ -12,7 +12,7 @@ Output: PDF
 
 Online Preview: [markdown/resume.md](markdown/resume.md)
 
-PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/raw/dev/pdf/resume.pdf)
+PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/blob/master/pdf/resume.pdf?raw=true)
 
 补充说明
 --------
