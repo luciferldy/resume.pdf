@@ -1,8 +1,7 @@
 Hit9's Resumé
 -------------
 
-工作目前已签, 我已经把自己卖了！ :smile: 
-
+Status: NOT Available for hire.
 
 About
 ------
@@ -11,36 +10,38 @@ Source: Markdown
 
 Output: PDF
 
-Render: [github/markup](https://github.com/github/markup)
+Online Preview: [markdown/resume.md](markdown/resume.md)
 
-Online Preview: [resume.md](resume.md)
+PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/raw/dev/pdf/resume.pdf)
 
-PDF Download: [Download PDF version](https://github.com/hit9/resume.pdf/blob/master/resume.pdf?raw=true)
-
-Note
------
+补充说明
+--------
 
 - 求职类型: 正式工
 
-- 求职意愿顺序(优先性高到低):  Python后端, Node.js, 前端
+- resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿
 
-  *resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿*
+- 工作地意向(优先性高到低): 南京，杭州，上海
 
-- 工作地意向(优先性高到低): 南京，杭州，上海，北京
+我如何做一份类似的简历？
+-----------------------
 
-But, How To?
--------------
+1. 安装`wkhtmltopdf` (版本越高越好):
+   ```bash
+   # Ubuntu
+   sudo apt-get install wkhtmltopdf
 
-如果你也需要这样生成和管理你的简历的话，希望这些步骤对你有帮助。
+   # on OSX
+   brew tap homebrew/boneyard
+   brew install wkhtmltopdf
+   ```
 
-1. 安装[gimli](https://github.com/walle/gimli)
+2. 安装`md2pdf`:
 
-2. 修改下 style.css 来修改其样式。
+   ```bash
+   pip install git+git://github.com/hit9/md2pdf.git@master
+   ```
 
-如果有问题，请提issue
+3. 自行编写`markdown/resume.md`, 并自行修改样式`css/style.css`.
 
-
-Thanks
-------
-
-To [gimli](https://github.com/walle/gimli), Good Good Good Job!
+4. 执行 `make` 来编译为pdf.
