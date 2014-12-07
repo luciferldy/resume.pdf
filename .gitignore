@@ -3,3 +3,4 @@
 libpeerconnection.log
 *.pyc
 venv
+.DS_Store
