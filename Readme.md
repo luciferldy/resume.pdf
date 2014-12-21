@@ -17,11 +17,7 @@ PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/blob/master/pd
 补充说明
 --------
 
-- 求职类型: 正式工
-
-- resume.md(resume.pdf)中的求职意愿为当时期所投简历的意愿
-
-- 工作地意向(优先性高到低): 南京，杭州，上海
+Temp None.
 
 我如何做一份类似的简历？
 -----------------------
