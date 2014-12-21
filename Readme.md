@@ -17,7 +17,7 @@ PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/blob/master/pd
 补充说明
 --------
 
-Temp None.
+暂无
 
 我如何做一份类似的简历？
 -----------------------
