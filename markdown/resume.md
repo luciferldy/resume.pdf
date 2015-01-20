@@ -27,6 +27,9 @@
 - <datetime>2014.12 - now</datetime> <head_>**node-tsdb** *(github.com/eleme/node-tsdb)* <lang>Nodejs</lang></head_>
 <description>基于leveldb时间序列持久化存储数据库</description>
 
+- <datetime>2014.09 - now</datetime> <head_>**thriftpy** *(github.com/eleme/thriftpy)* <lang>Python</lang></head_>
+<description>Apache Thrift的Python实现(主要参与Parser部分)</description>
+
 - <datetime>2014.08 - 2014.12</datetime> <head_>**node-bell** *(github.com/eleme/node-bell)* <lang>Nodejs</lang></head_>
 <description>实时时间序列异常点检测系统，在eleme用来实时监控接口调用次数、时长、异常等信息</description>
 
