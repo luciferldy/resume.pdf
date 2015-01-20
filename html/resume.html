@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <style type="text/css" media="all">
+    html, body {
+  height: 100%;
+}
+
+body {
+  font: 13px/1.3 Verdana Helvetica, arial, freesans, clean, sans-serif;
+  color: #333;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a: hover {
+  text-decoration: underline;
+  color: black;
+}
+
+/* Headlines has different font sizes */
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+/* H1 and H2 has underline */
+h1, h2 {
+  border-bottom: 1px solid #999;
+  font-weight: bold;
+}
+
+/* ul & li */
+ul {
+  list-style-type: circle;
+  margin-left: -0.4em;
+}
+
+li {
+  display: list-item;
+}
+
+/* school logo */
+img[alt="school-logo"] {
+  position: absolute;
+  top: .3em;
+  right: .8em;
+  height: 1.7em;
+  background-color: #fff;
+}
+
+/* avatar */
+img[alt="avatar"] {
+  position: absolute;
+  top: 3.8em;
+  right: 1em;
+  height: 8.5em;
+  background-color: #fff;
+}
+
+
+/* strong fonts as little title */
+/* ---- only for those ugly lists !--- */
+
+li em {
+  font-size: .8em;
+  color: #777;
+  font-style: italic;
+}
+
+datetime {
+  display: inline-block;
+  width: 9em;
+}
+
+head_ {
+  border-bottom: 1px solid #ddd;
+  margin-left: .5em;
+}
+
+lang {
+  float: right;
+  font-size: .8em;
+  border-bottom: 1px dotted #ddd;
+}
+
+description {
+  margin-top: .5em; /* away from big title, looks like a block*/
+  display: block;
+  margin-left: 9.8em;  /* 9 + .5 + .3*/
+}
+
+hireable {
+  font-size: 1em;
+  color: #777;
+}
+
+footnote {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  font-size: .8em;
+  color: #777;
+}
+
+  </style>
+</head>
+<body>
+  <h1>王超 <hireable>Not Hireable</hireable></h1>
+
+<ul>
+<li><p>男， 汉族， 1992年4月生， 现居上海</p></li>
+<li><p>电话: 1850-1617-303</p></li>
+<li><p>邮箱: <a href="mailto:hit9@icloud.com">hit9@icloud.com</a></p></li>
+<li><p>GitHub: github.com/hit9</p></li>
+</ul>
+
+<h2>教育背景</h2>
+
+<ul>
+<li>2010.09 - 2014.07 哈尔滨工业大学， 信息系统与信息管理专业， 本科</li>
+</ul>
+
+<h2>技能知识</h2>
+
+<ul>
+<li><p>语言/平台: Python、Nodejs、C、CSS/HTML</p></li>
+<li><p>开发工具: Vim、Git、 Linux/OSX、 MySQL、GitHub等</p></li>
+</ul>
+
+<h2>项目经验</h2>
+
+<ul>
+<li><p><datetime>2014.12 - now</datetime> <head_><strong>node-tsdb</strong> <em>(github.com/eleme/node-tsdb)</em> <lang>Nodejs</lang></head_>
+<description>基于leveldb时间序列持久化存储数据库</description></p></li>
+<li><p><datetime>2014.08 - 2014.12</datetime> <head_><strong>node-bell</strong> <em>(github.com/eleme/node-bell)</em> <lang>Nodejs</lang></head_>
+<description>实时时间序列异常点检测系统，在eleme用来实时监控接口调用次数、时长、异常等信息</description></p></li>
+<li><p><datetime>2014.07 - 2014.10</datetime> <head_><strong>node-ssdb &amp; ssdb.py</strong> <em>(github.com/eleme/node-ssdb &amp; github.com/hit9/ssdb.py)</em> <lang>Nodejs/Python</lang></head_>
+<description>Nosql数据库服务器ssdb的Nodejs &amp; Python客户端</description></p></li>
+<li><p><datetime>2012.09 - 2013.07</datetime> <head_><strong>skylark</strong> <em>(github.com/hit9/skylark)</em> <lang>Python</lang></head_>
+<description>支持mysql/sqlite3的Python轻量级ORM框架</description></p></li>
+<li><p><datetime>2013.02 - 2013.07</datetime> <head_><strong>rux</strong> <em>(github.com/hit9/rux)</em>  <lang>Python, C</lang></head_>
+<description>极简飞快的静态博客生成器，用在个人的日记博客上</description></p></li>
+<li><p><datetime>2013.04 - 2013.07</datetime> <head_><strong>todo.c</strong> <em>(github.com/hit9/todo.c)</em> <lang>C</lang></head_>
+<description>轻量的命令行todo管理工具，持久存储可读</description></p></li>
+</ul>
+
+<h2>实习与奖励</h2>
+
+<ul>
+<li><p><datetime>2014.03 - now </datetime> <head_><strong>Eleme产品部平台架构组工程师</strong></head_>
+<description>Eleme后端基础RPC服务的维护、Metric监控与报警、日志收集与异常报警等</description></p></li>
+<li><p><datetime>2013.07 - 2013.09</datetime> <head_><strong>知乎产品开发Python后端实习生</strong></head_>
+<description>负责维护知乎图片、视频和头像上传服务，修补日常bug等。在知乎不仅学到了很多开发技巧，
+而且学会融入团队，也更加热爱提问、热于帮别人解决问题。</description></p></li>
+</ul>
+
+<h2>其它</h2>
+
+<ul>
+<li><p>爱好: 滑冰、羽毛球、旅游、写博客、写日记等</p></li>
+<li><p>特长: 作画、编程</p></li>
+</ul>
+
+<h2>自我评价</h2>
+
+<ul>
+<li>积极向上、热爱自由、崇尚开源、待人友善、富有激情</li>
+</ul>
+
+<p><img src="/Users/hit9/github/resume.pdf/images/hit_logo.jpg" title="None" alt="school-logo" />
+<img src="/Users/hit9/github/resume.pdf/images/avatar.jpg" title="None" alt="avatar" /></p>
+
+<p><footnote>Resumé Git Repository: <a href="https://github.com/hit9/resume.pdf">https://github.com/hit9/resume.pdf</a></footnote></p>
+
+</body>
+</html>
