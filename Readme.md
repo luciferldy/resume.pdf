@@ -10,10 +10,6 @@ Source: Markdown
 
 Output: PDF
 
-Online Preview: [markdown/resume.md](markdown/resume.md)
-
-PDF Download: [pdf/resume.pdf](https://github.com/hit9/resume.pdf/blob/master/pdf/resume.pdf?raw=true)
-
 补充说明
 --------
 
