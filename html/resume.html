@@ -118,9 +118,9 @@ footnote {
 <h2>技能知识</h2>
 
 <ul>
-<li><p>语言: PHP, Java, CSS/HTML</p></li>
+<li><p>语言: Java, PHP, CSS/HTML</p></li>
 <li><p>平台：Windows/Linux</p></li>
-<li><p>开发工具: Android Studio, Eclipse, PhpStorm, WebStorm, Sublime Text3</p></li>
+<li><p>开发工具: Android Studio, Eclipse, PhpStorm, WebStorm, Sublime Text3, GitHub</p></li>
 </ul>
 
 <h2>项目经验</h2>
@@ -130,26 +130,31 @@ footnote {
 <description>
 <ul>
   <li>一款英语语法学习软件</li>
-  <li>快速浏览英语语法</li>
-  <li>实时测试，能够测试你的学习成果</li>
-  <li>在线下载，我可以在服务器更新词库，客户端可以下载最新词库</li>
-  <li>在线查词，支持英汉互译</li>
-  <li>我的第一个Android项目，跨度时间很长，学习加深之后对原有代码进行了重构，抽象出接口，同时对代码解耦，方便以后增加功能</li>
+  <li>SQLite存储语法知识和习题，能够查看语法并进行测试</li>
+  <li>统计错题数，并能够对错题进行解析</li>
+  <li>在线下载的服务器端架在SAE上，用PHP写成，我可以在服务器更新词库，客户端可以下载最新词库</li>
+  <li>调用百度Dictionary和Translate接口，支持在线查词，智能分析输入，支持英汉互译</li>
+  <li>我的第一个Android项目，跨度时间很长，学习加深之后对原有代码进行了重构，抽象出接口，同时对代码解耦，方便代码复用</li>
 </ul></description></p></li>
 <li><p><datetime>2014.11 - 2015.02</datetime> <head_><strong>知乎日报·今日</strong> <em>(<a href="https://github.com/MaybeMercy/zhihutoday">https://github.com/MaybeMercy/zhihutoday</a>)</em> <lang>Java</lang></head_>
 <description>
 <ul>
-  <li>能够查看当天以及更早的新闻</li>
-  <li>手写缓存机制，缓存新闻简介</li>
-  <li>运用到了开源项目如UniversalImage等，调用方便，界面友好</li>
+  <li>一款查看知乎日报的应用</li>
+  <li>异步线程池访问网络，能够查看当天以及更早的新闻</li>
+  <li>使用SQLite缓存文字信息，自动缓存新闻简介</li>
+  <li>运用开源项目UniversalImageLoader实现图片的加载与缓存</li>
+  <li>运用开源项目PullToRefresh进行下拉刷新，增强用户体验；自己手写刷新模式，每次上拉刷新时清掉原有内容，显示最新内容，每次下次刷新搜寻更早内容</li>
+  <li>模仿工厂模式，对加载及缓存今日消息和更早消息抽象出接口，分别设置不同的类</li>
+  <li>搜索今日消息时首先进行网络访问，并更新数据库，搜索更早消息时首先从数据库中读取，若是没有再进行网络访问</li>
 </ul></description></p></li>
 <li><p><datetime>2013.09 - 2014.01</datetime> <head_><strong>HIT生活助手</strong> <em>(<a href="https://github.com/MaybeMercy/liveinhit">https://github.com/MaybeMercy/liveinhit</a>)</em> <lang>PHP</lang></head_>
 <description>
 <ul>
   <li>一款微信公众账号</li>
-  <li>能够定位搜索使用者附近的电影院，餐厅，银行</li>
-  <li>提供哈尔滨的购物指南，旅游指南</li>
-  <li>娱乐一下，2048小游戏</li>
+  <li>使用百度Place API搜索使用者附近的电影院，餐厅，银行</li>
+  <li>自己手动制作哈尔滨的购物指南，旅游指南，娱乐指南</li>
+  <li>使用百度Geocoding API对使用者定位，解析出位置信息之后从新浪天气上抓取今天的天气情况</li>
+  <li>内置开源2048小游戏</li>
   <li>学习深入之后用MVC模式重构</li>
 </ul>
 </description></p></li>
@@ -160,9 +165,9 @@ footnote {
 <li><p><datetime>2012.08 - now </datetime> <head_><strong>获得奖项</strong></head_>
 <description>
 <ul>
-  <li>2014年校级三好学生</li>
-  <li>2013年校级三好学生</li>
   <li>2012-2013国家励志奖学金</li>
+  <li>2013年校级三好学生</li>
+  <li>2014年校级三好学生</li>
 </ul>
 </description></p></li>
 </ul>
