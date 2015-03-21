@@ -101,12 +101,13 @@ footnote {
 <li><p>电话: 18249461692</p></li>
 <li><p>邮箱: <a href="mailto:lian_dy@foxmail.com">lian_dy@foxmail.com</a></p></li>
 <li><p>GitHub: <a href="https://github.com/MaybeMercy">https://github.com/MaybeMercy</a></p></li>
+<li><p>Stackoverflow: <a href="http://stackoverflow.com/users/4209154/night">http://stackoverflow.com/users/4209154/night</a></p></li>
+<li><p>Blog：<a href="http://maybemercy.github.io/">http://maybemercy.github.io/</a></p></li>
 </ul>
-
 <h2>求职意向</h2>
 
 <ul>
-  <li>Android 实习研发工程师</li>
+  <li>Android客户端开发工程师</li>
 </ul>
 
 <h2>教育背景</h2>
@@ -118,7 +119,7 @@ footnote {
 <h2>技能知识</h2>
 
 <ul>
-<li><p>语言: Java, PHP, CSS/HTML</p></li>
+<li><p>语言: Java, PHP, HTML</p></li>
 <li><p>平台：Windows/Linux</p></li>
 <li><p>开发工具: Android Studio, Eclipse, PhpStorm, WebStorm, Sublime Text3, GitHub</p></li>
 </ul>
@@ -126,47 +127,43 @@ footnote {
 <h2>项目经验</h2>
 
 <ul>
-<li><p><datetime>2014.09 - 2015.01</datetime> <head_><strong>酷爽语法</strong> <em>(<a href="https://github.com/MaybeMercy/coolgrammar">https://github.com/MaybeMercy/coolgrammar</a>)</em> <lang>Java &amp; PHP</lang></head_>
+<li><p><datetime>2014.09 - 2015.01</datetime> <head_><strong>酷爽语法(Android APP)</strong> <em>(<a href="https://github.com/MaybeMercy/coolgrammar">https://github.com/MaybeMercy/coolgrammar</a>)</em> <lang>Java &amp; PHP</lang></head_>
 <description>
 <ul>
-  <li>一款英语语法学习软件</li>
-  <li>SQLite存储语法知识和习题，能够查看语法并进行测试</li>
-  <li>下载词库的服务器端架在SAE上，用PHP写成，客户端可以下载我更新的词库</li>
-  <li>调用百度Dictionary和Translate接口，支持在线查词，智能分析输入，支持英汉互译</li>
-  <li>我的第一个Android项目，跨度时间很长，学习加深之后对原有代码进行了重构，对代码解耦，方便代码复用</li>
+  <li>一款学习英语语法的Android APP</li>
+  <li>使用SQLite存储语法信息和题库信息，支持离线查看</li>
+  <li>支持题库下载，题库下载的服务端架在SAE上，使用PHP写成，使用PHPMyAdmin数据库进行存储</li>
+  <li>调用百度Dictionary API和Translate API，实现在线翻译。智能分析输入，支持英汉互译</li>
 </ul></description></p></li>
-<li><p><datetime>2014.11 - 2015.02</datetime> <head_><strong>知乎日报·今日</strong> <em>(<a href="https://github.com/MaybeMercy/zhihutoday">https://github.com/MaybeMercy/zhihutoday</a>)</em> <lang>Java</lang></head_>
+<li><p><datetime>2014.11 - 2015.02</datetime> <head_><strong>知乎日报·今日(Android APP)</strong> <em>(<a href="https://github.com/MaybeMercy/zhihutoday">https://github.com/MaybeMercy/zhihutoday</a>)</em> <lang>Java</lang></head_>
 <description>
 <ul>
-  <li>一款查看知乎日报的应用，使用线程池访问网络，减少内存占用，能够查看当天以及更早的新闻</li>
-  <li>使用SQLite缓存文字信息，自动缓存新闻简介</li>
+  <li>一款查看知乎日报的Android APP</li>
+  <li>使用SQLite存储存新闻简介，能够离线观看；使用AsyncTask进行异步网络访问，实现在线查看新闻</li>
   <li>运用开源项目UniversalImageLoader实现图片的加载与缓存</li>
-  <li>运用开源项目PullToRefresh进行下拉刷新，增强用户体验；自己手写刷新模式，每次上拉刷新时清掉原有内容，显示最新内容，每次下拉刷新搜寻更早内容</li>
-  <li>解耦，对加载及缓存今日消息和更早消息抽象出接口，分别设置不同的类</li>
-  <li>对Android的控件有了更多的了解，好的代码结构要很清晰</li>
+  <li>运用开源项目PullToRefresh实现下拉刷新</li>
 </ul></description></p></li>
-<li><p><datetime>2013.09 - 2014.01</datetime> <head_><strong>HIT生活助手</strong> <em>(<a href="https://github.com/MaybeMercy/liveinhit">https://github.com/MaybeMercy/liveinhit</a>)</em> <lang>PHP</lang></head_>
+<li><p><datetime>2013.09 - 2014.01</datetime> <head_><strong>HIT生活助手(微信公众账号)</strong> <em>(<a href="https://github.com/MaybeMercy/liveinhit">https://github.com/MaybeMercy/liveinhit</a>)</em> <lang>PHP</lang></head_>
 <description>
 <ul>
-  <li>一款微信公众账号</li>
+  <li>一款微信公众账号，后台语言是PHP</li>
+  <li>使用MVC架构，实现显示与存储的分离，增强代码复用</li>
   <li>使用百度Place API搜索使用者附近的电影院，餐厅，银行</li>
   <li>使用百度Geocoding API对使用者定位，解析出位置信息之后从新浪天气上抓取今天的天气情况</li>
-  <li>内置开源2048小游戏</li>
-  <li>学习深入之后用MVC模式重构，进行模块解耦，PHP达到入门级水平</li>
 </ul>
 </description></p></li>
 </ul>
-
-<h2>其他</h2>
+<h2>社会实践</h2>
 <ul>
-<li><p><datetime>2012.08 - now </datetime> <head_><strong>获得奖项</strong></head_>
-<description>
-<ul>
-  <li>2012-2013国家励志奖学金</li>
-  <li>2013年校级三好学生</li>
-  <li>2014年校级三好学生</li>
+  <li>2013年8月随哈工大软件学院第八届暑期支教团前往黑龙江省铁力市兴旺村进行支教</li>
+  <li>2014年10月随哈工大软件学院青年志愿者协会前往哈尔滨市兴南小学进行讲课</li>
 </ul>
-</description></p></li>
+<h2>获得奖项</h2>
+<ul>
+<li>2012-2013国家励志奖学金</li>
+<li>2013年校级三好学生</li>
+<li>2014年校级三好学生</li>
 </ul>
 </body>
 </html>
+
